@@ -1,4 +1,4 @@
-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
+ACCESS_TOKEN: ghp_jXXfpn3y3c5a1CbDMuf7Xey5ibwC1K3Yzgn5
 
 for GIT PUSH ORIGIN <BRANCH NAME> 
 username: studentnotes94925@gmail.com
