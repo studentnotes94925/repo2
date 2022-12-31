@@ -4,9 +4,8 @@ pipeline {
     stages {
         stage('Test') {
             steps {
-
                 echo "Hello World 3!"
-                "mvn test"
+                bash "mvn test"
 
             }
         }
