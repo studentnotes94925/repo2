@@ -6,7 +6,7 @@ pipeline {
             steps {
 
                 echo "Hello World 2!"
-                sh "mvn test"
+                "mvn test"
 
             }
         }
