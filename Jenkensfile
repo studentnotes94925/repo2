@@ -4,7 +4,8 @@ pipeline {
     stages {
         stage('Test') {
             steps {
-                echo "Hello World!"
+                echo "Hello World!";
+                 sh 'mvn -Dmaven.test.failure.ignore=true test'
             }
         }
 
